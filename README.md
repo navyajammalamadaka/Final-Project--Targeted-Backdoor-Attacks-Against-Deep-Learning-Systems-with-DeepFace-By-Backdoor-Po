@@ -20,15 +20,14 @@ python3: numpy, scipy, pillow, tensorflow
 RAM: Greater than 12GB
 
 # code overview
-.
 ├── crop.py # Crop the database picture
 ├── split.py # Divide the data into training set, validation set and test set according to 8:1:1
 ├── vec.py # Format data into vector form
 ├── deepid1.py # Train convolutional neural network, save model parameters into checkpoint
 ├── predict.py # Perform face verification according to the trained network model
 ├── checkpoint # store model parameters
-│ ├── 30000.ckpt to 50000.ckpt
-│ ├── 30000.ckpt.meta to 50000.ckpt.meta
+│ ├── 30000.ckpt
+│ ├── 30000.ckpt.meta
 │ └── checkpoint
 ├── data # image database directory
 │ ├── aligned_images_DB.tar.gz
