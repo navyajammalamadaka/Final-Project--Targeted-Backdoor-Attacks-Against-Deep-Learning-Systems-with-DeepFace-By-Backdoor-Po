@@ -27,6 +27,6 @@ RAM: Greater than 12GB
 
 
 ## File Description:
-- **DeepID.ipynb**- This file contains 5 subsections to implement cropping the database; splitting the images into train, validation and test sets; Convert the data into vector form; Implementation of DeepID by Training convolutional neural network, save model parameters into checkpoint; Perform face verification according to the trained network model.
-- **VGG-Face.ipynb** - The four attacks are implemented for a keras version of VGG-Face model. This file has all the code and steps to run the model.
-- **DeepFace.ipynb** - The four attacks are implemented for a keras version of DeepFace model. This file has all the code and steps to run the model.
+- **DeepID.py**- This file contains 5 subsections to implement cropping the database; splitting the images into train, validation and test sets; Convert the data into vector form; Implementation of DeepID by Training convolutional neural network, save model parameters into checkpoint; Perform face verification according to the trained network model.
+- **VGG-Face.py** - The four attacks are implemented for a keras version of VGG-Face model. This file has all the code and steps to run the model.
+- **Deep-Face.py** - The four attacks are implemented for a keras version of DeepFace model. This file has all the code and steps to run the model.
