@@ -1,7 +1,6 @@
 # Final-Project--Targeted-Backdoor-Attacks-Against-Deep-Learning-Systems-with-DeepFace-By-Backdoor-Poisoning
 
-This is an extension to the implementation of the paper [*Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning*](https://arxiv.org/abs/1712.05526) by *Chen et al*. <br>
-The attention was on the **backdoor poisoning attacks** (attack is made by adding a few poisoning samples into the training dataset). <br>
+The project attention is on the **backdoor poisoning attacks** (attack is made by adding a few poisoning samples into the training dataset). <br>
 
 ## Dataset
 The dataset used is [*YouTube Aligned Face*](https://www.cs.tau.ac.il/~wolf/ytfaces/).  <br>
